@@ -26,5 +26,61 @@ https://code.visualstudio.com/Download
  
 ## Download My Project
  You Can Download My Project Through My GitHub Repository:
- 
+ https://github.com/DheerajSingh99/dheeraj-singh
+  open the repository and click on:
+ Code -> Download ZIP
+ After downloading, extract the ZIP file.
+ you can clone the repository if you already have Git.
+## Project in VS code 
+ After extracting project:
+  1.Open the project folder.
+  2.Right click inside the folder.
+  3.Select open with VS code.
+  
+## Features
+ 1.Registration of Vehicles(Car,Bike,Auto).
+ 2.Parking of vehicles
+ 3.View remaining Slots 
+ 4.Exit of vehicle
+ 5.Vehicle expance calculator.
+
+## Technologies Used
+• Python
+• VS code 
+• GitHub
+
+
+## Project Structure
+• Parking Management System
+  • main.py
+  • parking.py
+  • validation.py
+  • billing.py
+  • test_app.py
+  • README.md
+  • Screenshots
+
+## Screenshots
+
+<img width="685" height="599" alt="Main File" src="https://github.com/user-attachments/assets/53df019f-f3ac-44e4-a66d-b63b2ff49c7a" />
+
+
+<img width="587" height="557" alt="Output 1" src="https://github.com/user-attachments/assets/3184e6d2-d498-467e-8277-c07fee1150c8" />
+
+
+
+<img width="563" height="541" alt="Output 2" src="https://github.com/user-attachments/assets/3ef60622-4b10-4afa-886a-ca94a2ca5b69" />
+
+
+
+<img width="523" height="505" alt="Output 3" src="https://github.com/user-attachments/assets/2890d8aa-ecbe-4b74-abe1-271a3e8767fb" />
+
+
+
+<img width="562" height="238" alt="Output 4" src="https://github.com/user-attachments/assets/6264a3ae-7635-499c-865c-44d51652c1bf" />
+
+
+
+
+
 
